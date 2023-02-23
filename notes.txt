@@ -1,0 +1,6 @@
+# Prepare microservices project structure :
+1- Inside "nestjs-messenger-directory" -> create api project "nest new api"
+2- Inside "api" -> create "auth" app -> "nest g app auth"
+3- Inside "api" -> create "shared" library -> "nest g library shared"
+
+
